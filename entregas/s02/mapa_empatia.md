@@ -4,7 +4,7 @@
 
 | Campo | Dato |
 | :--- | :--- |
-| Estudiante (carnet) | (Pon aquí tu carnet) |
+| Estudiante (202308032) | 
 | Tema elegido | cómo llevar una alimentación balanceada basada en las calorías que necesita ingerir |
 | Entrevistado (nombre o alias) | Marvin, 20 |
 | ¿Por qué es usuario real del tema? | Es un estudiante de ingeniería que vive solo, prepara su propia comida y busca aumentar masa muscular de forma práctica |
