@@ -18,23 +18,11 @@
 
 ## Curva emocional (une los puntos según la fila "Emoción")
 
-Ánimo ↑
-       │  
-  Alta │   (F1) Tranquilo
-       │   o
-       │    \
-       │     \
- Media │      \                             (F4) Apático / Resignado
-       │       \                            o
-       │        \                          /
-       │         o                        /
-  Baja │        (F2) Insatisfecho        /
-       │                                /
-       │                               /
-       │                              o
-       │                             (F3) VALLE: Frustrado y confundido
-       └─────────────────────────────────────────────────────────────────► Fases
-
+🙂  ┌─── F1 ───────────────────────────────────────────┐
+│        \                                      │
+😐  │         \                                F4   │
+│          \                              /     │
+😞  └─────────── F2 ──────────── F3 ───────────┘
 
 ## Dolores anclados a evidencia (mínimo 3)
 
